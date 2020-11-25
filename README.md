@@ -1,2 +1,2 @@
 # desolharphilo
-Organising philosophy 
+A new approach to philosophy 
